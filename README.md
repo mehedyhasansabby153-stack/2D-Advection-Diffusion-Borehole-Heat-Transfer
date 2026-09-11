@@ -88,5 +88,3 @@ Numerical stability is evaluated using the Fourier number for diffusion and the 
 notebooks/   Main Jupyter notebook
 src/         Task-wise Python scripts
 figures/     Simulation figures
-report/      Final report
-docs/        Assignment description
