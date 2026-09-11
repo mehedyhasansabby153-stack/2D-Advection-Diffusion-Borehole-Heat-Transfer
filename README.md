@@ -1,4 +1,4 @@
-# ENE418-2D-Advection-Diffusion-Borehole-Heat-Transfer
+# 2D-Advection-Diffusion-Borehole-Heat-Transfer
 # 2D Heat Transport Around Boreholes Using Finite Difference Methods
 
 This repository contains the numerical implementation of Project 3 for ENE418.
